@@ -3,7 +3,7 @@
 ## About me
 
 - BSc in Biology (University of São Paulo, 2017-2022)
-- Ph.D. candidate in Bioinformatics (USP, 2022-ongoing), with internship at the American Museum of Natural History (2024-2025)
+- Ph.D. candidate in Bioinformatics (University of São Paulo, 2022-ongoing), with internship at the American Museum of Natural History (2024-2025)
 - Research interests: Methodological advances in computational biology (museomics, phylogenetic inference, and macroevolution) and their empirical applications to herpetology (especially amphibians)
  
 ## Skills
@@ -25,6 +25,10 @@
 ### Tools
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
