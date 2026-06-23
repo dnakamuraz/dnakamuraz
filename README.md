@@ -4,7 +4,7 @@
 
 - BSc in Biology (University of São Paulo, 2017-2022)
 - Ph.D. candidate in Bioinformatics (University of São Paulo, 2022-ongoing), with internship at the American Museum of Natural History (2024-2025)
-- Research interests: Methodological advances in computational biology (museomics, phylogenetic inference, and macroevolution) and their empirical applications to herpetology (especially amphibians)
+- Research interests: Methodological advances in computational biology (museomics, phylogenomics, and other omic sciences) and their empirical applications to herpetology (especially amphibians)
  
 ## Skills
 
