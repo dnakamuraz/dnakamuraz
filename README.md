@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F18647571-0590-4ec8-90b0-dcc78d7f227b&w=384&q=75" title="Antigravity" alt="Antigravity" width="40" height="40"/>&nbsp;
 
 ### Tools
   
